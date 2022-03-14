@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/starrywonder/codepathios-twitter/blob/main/part1twitterdemo_remake.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/starrywonder/codepathios-twitter/blob/main/PART1TWITTER_v3.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
